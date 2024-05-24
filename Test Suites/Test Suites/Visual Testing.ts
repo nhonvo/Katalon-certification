@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Test Suite 2</name>
+   <name>Visual Testing</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>2e5de974-9eea-463c-87e4-2a581874c661</testSuiteGuid>
+   <testSuiteGuid>9150b37f-2e6c-42f2-be7d-283ee15ff595</testSuiteGuid>
    <testCaseLink>
-      <guid>94baa5ea-1fdf-472e-8063-90677a704709</guid>
+      <guid>b4bb8440-d5c9-4e73-a78f-738d956cffc3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC01 - Verify page display</testCaseId>
+      <testCaseId>Test Cases/TC04 - Visual Testing</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
